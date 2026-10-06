@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pymupdf
+qdrant-client
+python-dotenv
+sentence-transformers
+requests
